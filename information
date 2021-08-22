@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>title</title>
+</head>
+
+<body>
+    <p>hello<br>im abtin zandi<br> im from iran</p>
+    <pre>student information
+name : abtin
+last name : zandi
+age : 19
+city : Tehran
+grade : 17.44
+nation : persian
+gender : male
+email : abtinzandi@gmail.com
+university : amirkabir university of technology
+ </pre>
+</body>
+
+</html>
