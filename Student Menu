@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Css internal</title>
+</head>
+<style>
+    h1 {
+        color: aqua;
+        font-size: xx-large;
+        font-family: Tahoma;
+    }
+
+    h2 {
+        color: rgb(44, 202, 202);
+        font-size: x-large;
+        font-family: Tahoma;
+
+    }
+
+    p {
+        color: blue;
+        font-size: larger;
+        font-family: Tahoma;
+    }
+
+    a {
+        color: cornflowerblue;
+        font-size: larger;
+        font-family: Tahoma;
+    }
+
+    i {
+        color: aqua;
+    }
+</style>
+
+<body>
+    <h1>
+        online courses :
+    </h1>
+    <h2>code yad :</h2>
+    <p>
+        persian courses for coding <br>
+        included productive <i>persian</i> courses 
+        for some critical coding languages 
+    </p>
+    <a href="https://codeyad.com/" target="_blank">1) code yad</a><br>
+    <a href="https://codeyad.com/Course/2004/%D8%AF%D9%88%D8%B1%D9%87-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-Css-HTML" target="_blank">2) Html and Css</a><br>
+    <a href="https://codeyad.com/Course/2003/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D9%85%D9%82%D8%AF%D9%85%D8%A7%D8%AA%DB%8C-%D8%AA%D8%A7-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86-(python)" target="_blank">3) python</a><br>
+    <a href="https://codeyad.com/Course/2015/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%AC%D8%A7%D9%85%D8%B9-%D8%AC%D8%A7%D9%88%D8%A7-%D8%A7%D8%B3%DA%A9%D8%B1%DB%8C%D9%BE%D8%AA-(JavaScript)" target="_blank">4) JavaScript</a><br>
+    <a href="https://codeyad.com/Course/2018/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%AC%D8%A7%D9%85%D8%B9-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%A8%D8%A7-PHP" target="_blank">5) PHP</a><br>
+    <a href="https://codeyad.com/Course/2008/%D8%AF%D9%88%D8%B1%D9%87-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D8%B3%DB%8C-%D8%B4%D8%A7%D8%B1%D9%BE-c" target="_blank">6) C#</a><br>
+    <a href="codeyad.com/c/0356" target="_blank">7) Java</a>
+    <h2>Top learn :</h2>
+    <p>
+        persian courses for coding <br>
+        included productive <i>persian</i> courses 
+        for some critical coding languages and frame works
+    </p>
+    <a href="https://toplearn.com/" target="_blank">1) Top learn</a><br>
+    <a href="https://toplearn.com/courses?categories=Android" target="_blank">2) Android</a><br>
+    <a href="https://toplearn.com/courses?categories=Asp.Net%20Core" target="_blank">3) Asp.net core</a><br>
+    <a href="https://toplearn.com/courses?categories=PHP" target="_blank">4) PHP</a><br>
+    <a href="https://toplearn.com/courses?categories=Python" target="_blank">5) python</a><br>
+    <a href="https://toplearn.com/courses?categories=JavaScript" target="_blank">6) JavaScript</a><br>
+    <a href="https://toplearn.com/courses?categories=Java" target="_blank">7) Java</a><br>
+    <a href="https://toplearn.com/courses?categories=C" target="_blank">8) C</a><br>
+    
+</body>
+
+</html>
