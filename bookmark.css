@@ -1,0 +1,41 @@
+h1{
+    color :chartreuse;
+    font-size : xx-large;
+    font-family :  Tahoma;
+}
+h2{
+    color: darkgreen;
+    font-size : x-large;
+    font-family :  Tahoma;
+
+}
+h3{
+    color: rgba(46, 85, 46, 0.445);
+    font-size : x-large;
+    font-family :  Tahoma;
+
+}
+li
+{
+    color: cadetblue;
+    font-size: larger;
+    font-family :  Tahoma;
+}
+ol
+{
+    color: cadetblue;
+    font-size: larger;
+    font-family :  Tahoma;
+}
+ul
+{
+    color: cadetblue;
+    font-size: larger;
+    font-family :  Tahoma;
+}
+a
+{
+    color: cadetblue;
+    font-size: larger;
+    font-family :  Tahoma;
+}
